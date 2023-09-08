@@ -1,0 +1,7 @@
+Source,Target,Weight,Type
+TNG_data,TNG_troi,4,undirected
+TNG_data,TNG_worf,6,undirected
+TNG_troi,TNG_data,4,undirected
+TNG_troi,TNG_worf,5,undirected
+TNG_worf,TNG_data,6,undirected
+TNG_worf,TNG_troi,5,undirected
